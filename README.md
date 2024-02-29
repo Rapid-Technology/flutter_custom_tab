@@ -1,4 +1,4 @@
-# flutter_custom_tabbar
+# Flutter Custom TabBar
 
 A new Flutter project.
 
